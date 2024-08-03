@@ -7,7 +7,7 @@
 💻 I'm currently learning and working with iOS Stack Technologies, like Swift, UIKit, SwiftUI...
 
 ## 🤫
-My iOS apps repositories are private due to confidentiality reasons. However, you can take a look at the projects I've developed accessing my portfolio on the link below!
+Some of my iOS app repositories are private due to confidentiality reasons. However, you can take a look at the projects I've developed by accessing my portfolio through the link below!
 
 ## 📄 My Portfolio:
 https://bit.ly/filipe-serafini-portfolio
