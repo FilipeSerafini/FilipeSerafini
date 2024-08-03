@@ -31,6 +31,6 @@ https://bit.ly/filipe-serafini-portfolio
 
 ## You can find me on:
 
-•⁠  ⁠WhatsApp: +55 (51) 99299-2252
-•⁠  ⁠Linkedin: https://www.linkedin.com/in/filipeserafini/
-•⁠  ⁠Gmail: filipe.serafini@gmail.com
+•⁠  ⁠WhatsApp: +55 (51) 99299-2252</br>
+•⁠  ⁠Linkedin: https://www.linkedin.com/in/filipeserafini/</br>
+•⁠  ⁠Gmail: filipe.serafini@gmail.com</br>
