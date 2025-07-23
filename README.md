@@ -3,7 +3,7 @@
 <h3>I'm Filipe Serafini! Welcome to my GitHub profile!</h3>
 
 👨‍💻 I'm a Software Engineer student at Pontifical Catholic University of Rio Grande do Sul (PUCRS)</br>
-🔵 I'm currently a Backend Software Developer Intern at SAP
+🔵 I'm currently a Backend Software Developer Intern at SAP</br>
 🍎 I've graduated in the Apple Developer Academy program in Brazil in the class of 2023/2024</br>
 
 ## 🤫
