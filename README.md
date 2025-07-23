@@ -3,8 +3,8 @@
 <h3>I'm Filipe Serafini! Welcome to my GitHub profile!</h3>
 
 👨‍💻 I'm a Software Engineer student at Pontifical Catholic University of Rio Grande do Sul (PUCRS)</br>
-🍎 I'm currently a participant in the Apple Developer Academy program in Brazil</br>
-💻 I'm currently learning and working with iOS Stack Technologies, like Swift, UIKit, SwiftUI...
+🔵 I'm currently a Backend Software Developer Intern at SAP
+🍎 I've graduated in the Apple Developer Academy program in Brazil in the class of 2023/2024</br>
 
 ## 🤫
 Some of my iOS app repositories are private due to confidentiality reasons. However, you can take a look at the projects I've developed by accessing my portfolio through the link below!
