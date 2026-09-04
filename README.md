@@ -1,16 +1,9 @@
 ## 🙋🏻‍♂️ Hi there! 
 
 <h3>I'm Filipe Serafini! Welcome to my GitHub profile!</h3>
-
-👨‍💻 I'm a Software Engineer</br>
-🔵 I'm currently a Backend Software Developer Intern at SAP</br>
+ 
+🔵 I'm a Platform Software Engineer at SAP</br>
 🍎 I've graduated in the Apple Developer Academy program in Brazil in the class of 2023/2024</br>
-
-## 🤫
-Some of my iOS app repositories are private due to confidentiality reasons. However, you can take a look at the projects I've developed by accessing my portfolio through the link below!
-
-## 📄 My Portfolio:
-https://bit.ly/filipe-serafini-portfolio
 
 ## 🤩 My Tech Stack and technologies I've worked with so far! 
 
@@ -31,6 +24,5 @@ https://bit.ly/filipe-serafini-portfolio
 
 ## You can find me on:
 
-•⁠  ⁠WhatsApp: +55 (51) 99299-2252</br>
 •⁠  ⁠Linkedin: https://www.linkedin.com/in/filipeserafini/</br>
 •⁠  ⁠Gmail: filipe.serafini@gmail.com</br>
