@@ -5,6 +5,9 @@
 🔵 I'm a Platform Software Engineer at SAP</br>
 🍎 I've graduated in the Apple Developer Academy program in Brazil in the class of 2023/2024</br>
 
+Some of my iOS apps repositories are private due to confidentiality reasons, but you can check the projects on my portfolio:
+https://filipeserafini.vercel.app/
+
 ## 🤩 My Tech Stack and technologies I've worked with so far! 
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
