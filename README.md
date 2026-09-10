@@ -1,31 +1,60 @@
-## 🙋🏻‍♂️ Hi there! 
+# Filipe Serafini
 
-<h3>I'm Filipe Serafini! Welcome to my GitHub profile!</h3>
- 
-🔵 I'm a Platform Software Engineer at SAP</br>
-🍎 I've graduated in the Apple Developer Academy program in Brazil in the class of 2023/2024</br>
+### Platform Software Engineer · Backend · Cloud
 
-Some of my iOS apps repositories are private due to confidentiality reasons, but you can check the projects on my portfolio:
-https://filipeserafini.vercel.app/
+I'm a Software Engineer at SAP, currently working on backend services and cloud-native systems at SAP Concur.
 
-## 🤩 My Tech Stack and technologies I've worked with so far! 
+My main interests are **backend development, distributed systems, APIs, and cloud infrastructure**. I work primarily with **Java and Go**, with hands-on experience across Kafka, AWS, Kubernetes, and CI/CD.
 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+Before moving into backend engineering, I graduated from the **Apple Developer Academy** in Brazil, where I spent two years building iOS applications from the ground up.
 
-## You can find me on:
+---
 
-•⁠  ⁠Linkedin: https://www.linkedin.com/in/filipeserafini/</br>
-•⁠  ⁠Gmail: filipe.serafini@gmail.com</br>
+## ⚙️ What I work with
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=grpc&logoColor=white)
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+**Data & Platforms**
+
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
+
+**Tools & Development**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**iOS & Design**
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-000000?style=flat-square&logo=apple&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## 🧩 What you'll find here
+
+Most of my professional work lives in private repositories, but I use this profile to share **personal projects, experiments, university work, and things I've built while learning**.
+
+Some of my iOS projects from the Apple Developer Academy are also private due to confidentiality restrictions. You can find an overview of those projects on my portfolio.
+
+---
+
+## 🔗 Find me elsewhere
+
+[LinkedIn](YOUR_LINKEDIN) · [Portfolio](YOUR_PORTFOLIO) · [Email](mailto:YOUR_EMAIL)
